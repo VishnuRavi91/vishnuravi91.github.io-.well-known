@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.panasa.send2.art",
+      "sha256_cert_fingerprints": [
+        "0B:CD:0A:92:AD:A7:B6:86:5C:BD:42:DA:70:BE:05:AD:0D:19:0C:33"
+      ]
+    }
+  }
+]
